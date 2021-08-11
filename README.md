@@ -17,7 +17,7 @@
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Spring" height="30" width="40" src="https://img.icons8.com/color/452/spring-logo.png">
   <img align="center" alt="Vini-Angular" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+angular-1324451232424045372.png">
   <img align="center" alt="Vini-JQuery" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png">
