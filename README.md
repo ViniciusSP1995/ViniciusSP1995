@@ -24,6 +24,10 @@
   <img align="center" alt="Vini-Bootstrap" height="30" width="40" src="https://img.icons8.com/color/452/bootstrap.png">
   <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b">
   <img align="center" alt="Vini-Bootstrap" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
+  <img align="center" alt="Vini-Flutter" height="30" width="40" src="https://logowik.com/content/uploads/images/flutter5786.jpg">
+ <img align="center" alt="Vini-Dart" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
+ <img align="center" alt="Vini-NodeJS" height="30" width="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
+ <img align="center" alt="Vini-PostgreSQL" height="30" width="40" src="https://www.bacula.lat/wp-content/uploads/2019/05/postgresql-logo.png">
 </div>
 
 ### You can find me on: 
